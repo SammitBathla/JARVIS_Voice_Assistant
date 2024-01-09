@@ -8,15 +8,15 @@ JARVIS Voice Assistant is an AI-powered virtual assistant inspired by the intell
 
 **Features**
 
-**Voice Recognition:** Recognizes and processes voice commands.
+• **Voice Recognition:** Recognizes and processes voice commands.
 
-**Task Automation:** Executes commands for tasks like opening applications, managing schedules, retrieving information, etc.
+• **Task Automation:** Executes commands for tasks like opening applications, managing schedules, retrieving information, etc.
 
-**Customizable Commands:** Allows users to define custom commands and actions.
+• **Customizable Commands:** Allows users to define custom commands and actions.
 
-**Interactive Interface:** Provides feedback and responses through speech synthesis or textual output.
+• **Interactive Interface:** Provides feedback and responses through speech synthesis or textual output.
 
-**Extensible:** Potential for expansion with additional functionalities and integrations.
+• **Extensible:** Potential for expansion with additional functionalities and integrations.
 
 
 **Technologies Used**
